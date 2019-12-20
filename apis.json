@@ -1,0 +1,65 @@
+{
+    "name": "Yesmail Interactive",
+    "description": "Yesmail is a leading provider of email and digital marketing services. Truly connect with your customers through our revolutionary cross-channel solutions.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1224-yesmail-interactive.jpg",
+    "tags": [
+        "campaigns",
+        "email marketing",
+        "have api",
+        "iphone"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/yesmail-interactive\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Yesmail Interactive",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1224-yesmail-interactive.jpg",
+            "humanURL": "http:\/\/www.yesmail.com\/Services\/Enterprise-Web-Services\/Available-APIs.aspx",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.yesmail.com\/Services\/Enterprise-Web-Services\/Available-APIs.aspx"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/yesmail.com\/resources\/email-marketing-lounge"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/EmailMarketingLounge"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/yesmail"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/yes-lifecycle-marketing"
+        },
+        {
+            "type": "Email",
+            "url": "sales@yeslifecyclemarketing.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/yesmail"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/Yesmail"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/YesLifecycleMkt"
+        }
+    ]
+}
