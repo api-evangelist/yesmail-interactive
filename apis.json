@@ -8,8 +8,8 @@
         "have api",
         "iphone"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-22",
+    "modified": "2019-12-22",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/yesmail-interactive\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -20,11 +20,20 @@
             "humanURL": "http:\/\/www.yesmail.com\/Services\/Enterprise-Web-Services\/Available-APIs.aspx",
             "baseURL": "",
             "tags": [],
-            "properties": []
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/yesmail-interactive\/master\/yesmail-interactive-openapi.json"
+                }
+            ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Website",
             "url": "http:\/\/www.yesmail.com\/Services\/Enterprise-Web-Services\/Available-APIs.aspx"
